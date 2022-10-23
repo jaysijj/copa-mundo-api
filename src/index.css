@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-repeat: no-repeat center cover;
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("./Assets/img/fieldGrass.jpg");
+  color: rgb(34, 33, 33);
+}
+h1, h3, h4{
+  color: white;
 }
 
 code {

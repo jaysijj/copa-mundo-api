@@ -1,0 +1,35 @@
+.oitavaDeFinais{
+  margin-top: 80px;
+}
+.blocoOitavas_father{
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.blocoOitavas{
+  width: 180px;
+  background-color: lightseagreen;
+  border: solid black 2px;
+  border-radius: 10px;
+  margin: 20px;
+  text-align: center;
+}
+
+.partidasGrupos{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-weight: bold;
+}
+.grupos{
+  background-color: lightcoral;
+  border: solid black 2px;
+  border-radius: 10px;
+  width: 280px;
+  height: ;
+  margin: 10px;
+  padding: 20px;
+}
+.grupos2{
+  margin-bottom: 10px;
+}
