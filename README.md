@@ -14,4 +14,4 @@
 
 Clique para acesso: https://copa-do-mundo-api.vercel.app/
 
-<img src="./src/assets/img/jogos.png"/>
+<img src="./src/Assets/img/jogos.png"/>
